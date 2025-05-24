@@ -20,6 +20,7 @@ A full-stack note-taking application built with the MERN stack (MongoDB, Express
 ## Prerequisites
 
 Before running this project, make sure you have the following installed:
+
 - Node.js (v14 or higher)
 - MongoDB
 - npm or yarn
@@ -27,12 +28,14 @@ Before running this project, make sure you have the following installed:
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone <repository-url>
 cd Note-mern
 ```
 
 2. Install dependencies for both frontend and backend:
+
 ```bash
 # Install backend dependencies
 cd backend
@@ -44,6 +47,7 @@ npm install
 ```
 
 3. Create a `.env` file in the backend directory with the following variables:
+
 ```
 PORT=5000
 MONGODB_URI=your_mongodb_connection_string
@@ -53,12 +57,14 @@ JWT_SECRET=your_jwt_secret
 ## Running the Application
 
 1. Start the backend server:
+
 ```bash
 cd backend
 npm start
 ```
 
 2. Start the frontend development server:
+
 ```bash
 cd frontend
 npm start
@@ -105,6 +111,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - phammhao@outlook.com
 
-Project Link: [https://github.com/yourusername/Note-mern](https://github.com/yourusername/Note-mern)
+Project Link: [https://github.com/PhamMHao/Manage_Note](https://github.com/PhamMHao/Manage_Note)
